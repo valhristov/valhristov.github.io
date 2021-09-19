@@ -65,8 +65,7 @@ Shortly after I joined the company I inherited a product for building e-commerce
 # Education
 
 ## 1995-2000 University of Ruse, Bulgaria
-
-## 1991-1995 Professional High School for Electronics and Electric Engineering, Ruse, Bulgaria
+- Master's Degree of Manufacturing Automation, Information and Control Systems
 
 
 
