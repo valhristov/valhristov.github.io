@@ -7,7 +7,7 @@
 # Work Experience
 
 ## [Inexto](http://www.inexto.com) 2020 - now
-### Senior Software Engineer in Inextor (2 years)
+### Senior Software Engineer in Inextor
 I actively participate in the software design and development of Inextor, track and trace solution for goods and factory and production lines management. Inextor is used by the major tobacco manufacturers in Europe and the Middle East, as well as many smaller manufacturers from different industries. I suggest, specify, implement and document features, troubleshoot production systems, perform code reviews, provide 3rd level support for customers and partners.
 Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
 
