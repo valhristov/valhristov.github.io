@@ -1,6 +1,6 @@
 # About Me
 
-I am a software engineer at Inexto. Apart from designing and developing products, I enjoy training junior developers and talking with customers. I have strong interest in software architecture and design, and trying new things and using latest tech is something I love to do.
+I am a software engineer at Inexto. Apart from designing and developing products, I enjoy training junior developers and talking with customers. I have strong interest in software architecture and design, and trying new things and using the latest tech is something I love to do.
 
 ## Contact
 - Current Address: Founex, Switzerland
