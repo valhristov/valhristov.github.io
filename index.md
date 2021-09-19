@@ -1,8 +1,8 @@
 # About Me
 
 ## Valeri Hristov
-- Nationality: Bulgarian
-- Address: Route de Courte Raie 5E, Founex, Switzerland
+- Current Address: Route de Courte Raie 5E, Founex, Switzerland
+- Phone: +41 76 251 91 96
 - [LinkedIn](https://www.linkedin.com/in/valeri-hristov-771baa131/)
 
 ## Summary
@@ -24,7 +24,7 @@ And many more, open and closed source projects that are available on my GitHub a
 ## [Inexto](http://www.inexto.com) 2020 - now
 ### Senior Software Engineer in Inextor
 
-I design and develop features for Inextor, software for goods track and trace, and factory production management. The software is used by the major tobacco manufacturers in Europe and the Middle East, as well as many smaller manufacturers from other industries. In addition to software development, I troubleshoot production systems, perform code reviews and provide 3rd level support for customers and partners. Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
+I design and develop features for Inextor, software for track and trace, and factory production management. The software is used by the major tobacco manufacturers (Philip Morris, British American Tobacco, Imperial Tobacco, Japan Tobacco) in Europe, Russia and in the Middle East, as well as many smaller manufacturers from other industries. In addition to software development, I troubleshoot running production systems, perform code reviews and provide 3rd level support for customers and partners. I am point of contact for all manufacturers that operate on the Russian market and deputy point of contact for BAT. Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
 
 ## [Elca](http://www.elca.ch) 2019 - 2020
 ### Senior Software Engineer / Consultant
