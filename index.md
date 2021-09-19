@@ -10,6 +10,15 @@
 - Strong experience in software architecture and design, designed and developed numerous applications and services.
 - I enjoy training inexperienced developers and explaining complex matters with simple words and examples.
 
+# Personal Projects
+
+During the past several years I started working on a number of open source projects for fun and to help myself with difficult problems I have at work:
+- [LogMerge](https://github.com/valhristov/LogMergeRx) - multi-file CSV-format log viewer, written with .NET WPF, Reactive extensions.
+- [Release Notes](https://github.com/valhristov/release-notes-generator) - simple generator for release notes from GitHub commit history, written as Azure function.
+- [OMS API Comparer](https://github.com/valhristov/ApiComparer) - GUI for comparing Swagger API documentation, written with .NET WPF.
+
+And many more, open and closed source projects that are available on my GitHub account.
+
 # Work Experience
 
 ## [Inexto](http://www.inexto.com) 2020 - now
