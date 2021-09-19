@@ -5,9 +5,10 @@
 
 # About Me
 
-- Enthusiastic and open minded, and very easy to work with.
+- I have 20 years of experience in developing and architecting .NET applications and leading small teams.
 - Expert in C# and .NET Framework applications. I have strong experience in SQL and non-SQL databases.
-- Strong experience in software architecture and design, designed and developed numerous applications and services.
+- I am enthusiastic and open minded, and very easy to work with. I listen to and give constructive feedback.
+- I have strong interest in software architecture and design. Trying new things and using latest tech is something I love to do.
 - I enjoy training inexperienced developers and explaining complex matters with simple words and examples.
 
 # Personal Projects
@@ -39,18 +40,17 @@ As part of the Language team, and C#/VB.NET sub-team in particular, I designed a
 I led a small team who owned Telerik Test Studio for APIs, software for recording and executing REST API tests. I gathered requirements, designed and specified the software from the ground up. Test Studio for APIs is built using .NET Core for the test runner and .NET Framework, WPF, PRISM and Telerik RadControls for the GUI.
 
 ### Software Engineering Manager in Telerik ALM Division (1 year)
-I led a small team who owned several products:
-- Telerik Team Pulse - a mature agile project management system for SCRUM (now defunct), written in C#/Silverlight using ASP.NET MVC3, Linq2SQL, Entity Framework, Web API, Unity, JQuery, etc. 
+I led a small team who owned several products. I gathered requirements, groomed the backlog, developed features and improved old code that was difficult to maintain. I also trained junior developers and helped improve the documentation and the quality of the software.
+- Telerik Team Pulse - a mature agile project management system for SCRUM (now defunct), written in C#/Silverlight using ASP.NET MVC3, Linq2SQL, Entity Framework, Web API, Unity, JQuery, etc.
 - App Feedback, a service in Telerik Platform (a SaaS product, now defunct) that allowed the developers to manage client feedback, sent through a Cordova plugin. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js, Cordova. 
 - Task Tracker, a service in the Telerik Platform that provided simplified project management functionality and integration API with third party project management software. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js. 
 
-I gathered requirements, groomed the backlog, developed features and improved old code that was difficult to maintain. I also trained junior developers and helped improve the documentation and the quality of the products.
 
 ### Team Lead in Telerik Foundation Services (2 years)
 Together with a couple of other senior developers in Telerik I started the R&D, grew a team and completed some of the critical parts in the upcoming (at that time) Telerik Platform: Billing Services, Continuous Deployment and Security/Authentication Services, all written in C#, using ServiceStack, Unity, Couchbase and RabbitMQ. I was leading the one of two sub-teams that was responsible for the Billing Services and the Continuous Deployment. In addition to our main products, we designed and provided interfaces and reusable components for other teams in Telerik: Distributed Logging, Messaging, Authentication modules for .NET and Node.js. 
 
 ### Team Lead in Telerik RadControls for WPF/Silverlight (5 years)
-I led a team who owned several products from the highly successful RadControls for WPF and RadControls for Silverlight: Scheduler, GanttView, Dock, ComboBox and other controls and frameworks, such as drag-drop, base controls, themes, etc. I designed and developed large parts of Scheduler, GanntView and ComboBox, and helped with the development of many other components. In this team I trained junior developers and support engineers, and gathered requirements from customers. All of the code in RadControls for WPF/Silverlight was shared between WPF and Silverlight, and my team implemented many WPF features that were missing from Silverlight – extended Dependency Properties, Routed Events framework, etc.
+I led a team who owned several products from the highly successful RadControls for WPF and RadControls for Silverlight: Scheduler, GanttView, Dock, ComboBox and other controls and frameworks, such as drag-drop, base controls, themes, etc. I designed and developed large parts of Scheduler, GanntView and ComboBox, and helped with the development of many other components. In this team I trained junior developers and support engineers, and gathered requirements from customers.
 
 ### Team Lead in Telerik RadControls for ASP.NET (2 years)
 I led one of the three teams who owned the hugely successful at the time RadControls for ASP.NET. I designed and implemented features, trained junior developers and support engineers, wrote documentation and handled difficult support. My team was responsible for RadEditor, RadUpload, RadDock, RadSpellCheck and other controls. 
