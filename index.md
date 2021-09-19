@@ -13,14 +13,13 @@ Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
 
 ## [Elca](http://www.elca.ch) 2019 - 2020
 ### Consultant
-
-I was deployed at Inexto and worked on the project above.
+From my first day I was deployed at Inexto and worked on the project above.
 
 ## [SonarSource](http://www.sonarsource.com) 2016 - 2019
 ### Software Engineer in the Language Team (2.5 years)
 Part of the Language team, responsible for the development of a few open source products: Sonar C#, Sonar VB.NET, SonarLint for Visual Studio and SonarScanner for MSBuild. Sonar C# and Sonar VB.NET are static code analysers written in .NET and Java, that use the API of the .NET compiler (Roslyn) to analyse the compiled source code and raise issues on the problematic parts. SonarLint is a Visual Studio plugin that enables the Sonar C# and VB.NET analysers to show issues in Visual Studio in real-time. SonarScanner for MSBuild is a MSBuild extension that automatically plugs the Sonar C# and VB.NET analysers into the MSBuild chain. 
 
-## [Telerik](http://www.telerik.com) 2003 - 2016
+## [Telerik](http://www.telerik.com) 2003 - 2016 (acquired by [Progress](http://www.progress.com) in 2014)
 ### Software Engineering Manager in Telerik ALM Division (2 years)
 Leading a small dev team in charge of the development, support and documentation for Telerik Test Studio for APIs. We were gathering requirements and developing a simple, beautiful and scalable software for testing REST APIs. The software is separated in two parts: test runner - built on top of .NET Core and UI test editor and recorder, built using .NET 4.5, WPF, Telerik RadControls, PRISM, AutoFac. Using GIT/TFS, Jenkins and XUnit for unit tests. 
 
