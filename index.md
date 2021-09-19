@@ -5,9 +5,10 @@
 
 # About Me
 
-- Expert in C# and writing .NET Framework applications.
-- Strong experience in specifying and implementing software features
-- I enjoy training inexperienced developers
+- Enthusiastic and open minded, and very easy to work with.
+- Expert in C# and .NET Framework applications. I have strong experience in SQL and non-SQL databases.
+- Strong experience in software architecture and design, designed and developed numerous applications and services.
+- I enjoy training inexperienced developers and explaining complex matters with simple words and examples.
 
 # Work Experience
 
@@ -22,7 +23,7 @@ From my first day I was deployed at Inexto and worked on the project above.
 
 ## [SonarSource](http://www.sonarsource.com) 2016 - 2019
 ### Software Engineer in the Language Team (2.5 years)
-Part of the Language team, I designed and developed dozens of source code analyzers, as well as many features in several open source projects: Sonar C#, Sonar VB.NET, SonarLint for Visual Studio and SonarScanner for MSBuild. The projects are written in .NET and Java, and use the .NET compiler (Roslyn) and Visual Studio APIs.
+As part of the Language team, and C#/VB.NET sub-team in particular, I designed and developed dozens of C# and VB.NET source code analyzers, as well as many features in several open source projects: Sonar C#, Sonar VB.NET, SonarLint for Visual Studio and SonarScanner for MSBuild. The projects are written in .NET and Java, and use the .NET compiler (Roslyn) and Visual Studio APIs.
 
 ## [Telerik](http://www.telerik.com) 2003 - 2016 (acquired by [Progress](http://www.progress.com) in 2014)
 ### Software Engineering Manager in Telerik ALM Division (1 year)
@@ -40,17 +41,17 @@ I gathered requirements, groomed the backlog, developed features and improved ol
 Together with a couple of other senior developers in Telerik I started the R&D, grew a team and completed some of the critical parts in the upcoming (at that time) Telerik Platform: Billing Services, Continuous Deployment and Security/Authentication Services, all written in C#, using ServiceStack, Unity, Couchbase and RabbitMQ. I was leading the one of two sub-teams that was responsible for the Billing Services and the Continuous Deployment. In addition to our main products, we designed and provided interfaces and reusable components for other teams in Telerik: Distributed Logging, Messaging, Authentication modules for .NET and Node.js. 
 
 ### Team Lead in Telerik RadControls for WPF/Silverlight (5 years)
-I led a team who owned several products from the highly successful RadControls for WPF and RadControls for Silverlight: Scheduler, GanttView, Dock, ComboBox and other controls and frameworks, such as drag-drop, base controls, themes, etc. I designed and developed large parts of Scheduler, GanntView and ComboBox, and helped with the development of many other components. In this team I trained junior developers and support engineers, and gathered requirements from customers. All of the code in RadControls for WPF/Silverlight was shared between WPF and Silverlight, and my team implemented many WPF features that were missing from Silverlight – extended Dependency Properties, Routed Events framework, etc. 
+I led a team who owned several products from the highly successful RadControls for WPF and RadControls for Silverlight: Scheduler, GanttView, Dock, ComboBox and other controls and frameworks, such as drag-drop, base controls, themes, etc. I designed and developed large parts of Scheduler, GanntView and ComboBox, and helped with the development of many other components. In this team I trained junior developers and support engineers, and gathered requirements from customers. All of the code in RadControls for WPF/Silverlight was shared between WPF and Silverlight, and my team implemented many WPF features that were missing from Silverlight – extended Dependency Properties, Routed Events framework, etc.
 
 ### Team Lead in Telerik RadControls for ASP.NET (2 years)
-Development, support and documentation of RadControls for ASP.NET (C#/ASP.NET). I was leading the one of the three ASP.NET control teams that was responsible for RadEditor, RadUpload, RadDock, RadSpellCheck and other controls. 
+I led one of the three teams who owned the hugely successful at the time RadControls for ASP.NET. I designed and implemented features, trained junior developers and support engineers, wrote documentation and handled difficult support. My team was responsible for RadEditor, RadUpload, RadDock, RadSpellCheck and other controls. 
 
 ### Software Developer (2 years)
-Development of the new corporate web site, support ticketing system and home-grown CRM, all written in C# using ASP.NET. I was part of a team consisting of four developers and we wrote from scratch: a CMS system to support the corporate web site, forums and support ticketing system to drive the customer feedback and basic CRM system to keep track of clients and orders. 
+I started my career in Telerik in a small team who had the task to develop a new corporate web site. I wrote the support ticketing system (that became the only support channel in the company for the next 10 years), basic CMS system, CRM system, and many other small components, all written in C# and RadControls for ASP.NET.
 
 ## Sodec (not existing anymore) 2000 - 2002
 ### Software Developer (2 years)
-Development of software for building e-commerce web sites from XML templates (VB6/XSLT/HTML). I inherited a product that had to be mostly rewritten in order to be extendable and supportable. My main responsibility was to implement new features and fix not working parts of the software. 
+Shortly after I joined the company I inherited a product for building e-commerce web sites from XML templates, written in VB6 and XSLT/HTML. The product was hardly maintainable and I had to rewrite many components in order to add new features.
 
 # Education
 
