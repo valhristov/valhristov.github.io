@@ -32,7 +32,7 @@ I design and develop features for Inextor, software for track and trace, and fac
 From my first day I was deployed at Inexto and worked on the project above. I was transferred to Inexto where I continued to work in the same team on the same product.
 
 ## [SonarSource](http://www.sonarsource.com) 2016 - 2019
-### Software Engineer in the Language Team (2.5 years)
+### Senior Software Engineer in the Language Team (2.5 years)
 As part of the Language team, and C#/VB.NET sub-team in particular, I designed and developed dozens of C# and VB.NET source code analyzers, as well as many features in several open source projects: Sonar C#, Sonar VB.NET, SonarLint for Visual Studio and SonarScanner for MSBuild. The projects are written in .NET and Java, and use the .NET compiler (Roslyn) and Visual Studio APIs.
 
 ## [Telerik](http://www.telerik.com) 2003 - 2016 (acquired by [Progress](http://www.progress.com) in 2014)
