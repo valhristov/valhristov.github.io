@@ -1,23 +1,22 @@
-# Valeri Hristov
+# About Me
+
+## Valeri Hristov
 - Nationality: Bulgarian
 - Address: Route de Courte Raie 5E, Founex, Switzerland
 - [LinkedIn](https://www.linkedin.com/in/valeri-hristov-771baa131/)
 
-# About Me
-
+## Summary
 - I have 20 years of experience in developing and architecting .NET applications and leading small teams.
 - Expert in C# and .NET Framework applications. I have strong experience in SQL and non-SQL databases.
 - I am enthusiastic and open minded, and very easy to work with. I listen to and give constructive feedback.
 - I have strong interest in software architecture and design. Trying new things and using latest tech is something I love to do.
 - I enjoy training inexperienced developers and explaining complex matters with simple words and examples.
 
-# Personal Projects
-
+## Personal Projects
 During the past several years I started working on a number of open source projects for fun and to help myself with difficult problems I have at work:
 - [LogMerge](https://github.com/valhristov/LogMergeRx) - multi-file CSV-format log viewer, written with .NET WPF, Reactive extensions.
 - [Release Notes](https://github.com/valhristov/release-notes-generator) - simple generator for release notes from GitHub commit history, written as Azure function.
 - [OMS API Comparer](https://github.com/valhristov/ApiComparer) - GUI for comparing Swagger API documentation, written with .NET WPF.
-
 And many more, open and closed source projects that are available on my GitHub account.
 
 # Work Experience
