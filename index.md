@@ -1,7 +1,9 @@
 # About Me
 
-## Valeri Hristov
-- Current Address: Route de Courte Raie 5E, Founex, Switzerland
+I am a software engineer at Inexto. Apart from designing and developing products, I enjoy training junior developers and talking with customers. I have strong interest in software architecture and design, and trying new things and using latest tech is something I love to do.
+
+## Contact
+- Current Address: Founex, Switzerland
 - Phone: +41 76 251 91 96
 - [LinkedIn](https://www.linkedin.com/in/valeri-hristov-771baa131/)
 
@@ -9,7 +11,6 @@
 - I have 20 years of experience in developing and architecting .NET applications and leading small teams.
 - Expert in C# and .NET Framework applications. I have strong experience in SQL and non-SQL databases.
 - I am enthusiastic and open minded, and very easy to work with. I listen to and give constructive feedback.
-- I have strong interest in software architecture and design. Trying new things and using latest tech is something I love to do.
 - I enjoy training inexperienced developers and explaining complex matters with simple words and examples.
 
 ## Personal Projects
@@ -26,9 +27,9 @@ And many more, open and closed source projects that are available on my GitHub a
 
 I design and develop features for Inextor, software for track and trace, and factory production management. The software is used by the major tobacco manufacturers (Philip Morris, British American Tobacco, Imperial Tobacco, Japan Tobacco) in Europe, Russia and in the Middle East, as well as many smaller manufacturers from other industries. In addition to software development, I troubleshoot running production systems, perform code reviews and provide 3rd level support for customers and partners. I am point of contact for all manufacturers that operate on the Russian market and deputy point of contact for BAT. Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
 
-## [Elca](http://www.elca.ch) 2019 - 2020
-### Senior Software Engineer / Consultant
-From my first day I was deployed at Inexto and worked on the project above.
+## [Elca](http://www.elca.ch) @ Inexto 2019 - 2020
+### Senior Software Engineer / Consultant (1.5 years)
+From my first day I was deployed at Inexto and worked on the project above. I was transferred to Inexto where I continued to work in the same team on the same product.
 
 ## [SonarSource](http://www.sonarsource.com) 2016 - 2019
 ### Software Engineer in the Language Team (2.5 years)
