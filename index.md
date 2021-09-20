@@ -42,8 +42,8 @@ I led a small team who owned [Telerik Test Studio for APIs](https://www.telerik.
 
 ### Software Engineering Manager in Telerik ALM Division (1 year)
 I led a small team who owned several products. I gathered requirements, groomed the backlog, developed features and improved old code that was difficult to maintain. I also trained junior developers and helped improve the documentation and the quality of the software.
-- [Telerik Team Pulse](https://docs.telerik.com/teampulse/silverlight) - a mature agile project management system for SCRUM (now defunct), written in C#/Silverlight using ASP.NET MVC3, Linq2SQL, Entity Framework, Web API, Unity, JQuery, etc.
-- App Feedback, a service in [Telerik Platform](https://www.telerik.com/blogs/telerik-platform-101) (a SaaS product, now defunct) that allowed the developers to manage client feedback, sent through a Cordova plugin. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js, Cordova. 
+- [Telerik Team Pulse](https://docs.telerik.com/teampulse/) - a mature agile project management system for SCRUM (now defunct), written in C#/Silverlight using ASP.NET MVC3, Linq2SQL, Entity Framework, Web API, Unity, JQuery, etc.
+- App Feedback, a service in [Telerik Platform](https://www.telerik.com/blogs/telerik-platform-101) (now defunct) that allowed the developers to manage client feedback, sent through a Cordova plugin. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js, Cordova. 
 - Task Tracker, a service in the [Telerik Platform](https://www.telerik.com/blogs/telerik-platform-101) that provided simplified project management functionality and integration API with third party project management software. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js. 
 
 ### Team Lead in Telerik Foundation Services (2 years)
