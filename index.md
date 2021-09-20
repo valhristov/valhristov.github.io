@@ -1,6 +1,6 @@
 # About Me
 
-I am currently a senior software engineer at Inexto. Apart from designing and developing products, I enjoy training developers and talking with customers. I have strong interest in software architecture and design, and trying new things and using the latest tech is something I love to do.
+I am currently a senior software engineer at Inexto. Apart from designing and developing products, I enjoy training developers and talking with customers. I have strong interest in software architecture and design, and I love trying new things and using the latest tech.
 
 ## Contact
 - Current Address: Founex, Switzerland
@@ -26,7 +26,7 @@ And many more, open and closed source projects that are available on my GitHub a
 ## [Inexto](http://www.inexto.com) 2020 - now
 ### Senior Software Engineer in Inextor
 
-I design and develop features for Inextor, software for track and trace, and factory production management. The software is used by the major tobacco manufacturers (Philip Morris, British American Tobacco, Imperial Tobacco, Japan Tobacco) in Europe, Russia and in the Middle East, as well as many smaller manufacturers from other industries. In addition to software development, I troubleshoot running production systems, perform code reviews and provide 3rd level support for customers and partners. I am point of contact for all manufacturers that operate on the Russian market and deputy point of contact for BAT. Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
+I design and develop features for Inextor, software for track and trace, and factory production management. The software is used by the major tobacco manufacturers (Philip Morris, British American Tobacco, Imperial Tobacco, Japan Tobacco) in Europe, Russia and in the Middle East, as well as many small manufacturers from tobacco and other industries. In addition to software development, I troubleshoot running production systems, perform code reviews and provide 3rd level support for customers and partners. I am point of contact for the manufacturers that operate on the Russian market. Inextor is written using .NET, WPF, ASP.NET, EF6, WCF.
 
 ## [Elca](http://www.elca.ch) @ Inexto 2019 - 2020
 ### Senior Software Engineer / Consultant (1.5 years)
