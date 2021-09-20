@@ -1,6 +1,6 @@
 # About Me
 
-I am a software engineer at Inexto. Apart from designing and developing products, I enjoy training junior developers and talking with customers. I have strong interest in software architecture and design, and trying new things and using the latest tech is something I love to do.
+I am currently a senior software engineer at Inexto. Apart from designing and developing products, I enjoy training developers and talking with customers. I have strong interest in software architecture and design, and trying new things and using the latest tech is something I love to do.
 
 ## Contact
 - Current Address: Founex, Switzerland
@@ -11,7 +11,7 @@ I am a software engineer at Inexto. Apart from designing and developing products
 - I have 20 years of experience in developing and architecting .NET applications and leading small teams.
 - Expert in C# and .NET Framework applications. I have strong experience in SQL and non-SQL databases.
 - I am enthusiastic and open minded, and very easy to work with. I listen to and give constructive feedback.
-- I enjoy training inexperienced developers and explaining complex matters with simple words and examples.
+- I enjoy giving trainings and explaining complex matters with simple words and examples.
 
 ## Personal Projects
 During the past several years I started working on a number of open source projects for fun and to help myself with difficult problems I have at work:
@@ -43,8 +43,8 @@ I led a small team who owned [Telerik Test Studio for APIs](https://www.telerik.
 ### Software Engineering Manager in Telerik ALM Division (1 year)
 I led a small team who owned several products. I gathered requirements, groomed the backlog, developed features and improved old code that was difficult to maintain. I also trained junior developers and helped improve the documentation and the quality of the software.
 - [Telerik Team Pulse](https://docs.telerik.com/teampulse/silverlight) - a mature agile project management system for SCRUM (now defunct), written in C#/Silverlight using ASP.NET MVC3, Linq2SQL, Entity Framework, Web API, Unity, JQuery, etc.
-- App Feedback, a service in Telerik Platform (a SaaS product, now defunct) that allowed the developers to manage client feedback, sent through a Cordova plugin. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js, Cordova. 
-- Task Tracker, a service in the Telerik Platform that provided simplified project management functionality and integration API with third party project management software. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js. 
+- App Feedback, a service in [Telerik Platform](https://www.telerik.com/blogs/telerik-platform-101) (a SaaS product, now defunct) that allowed the developers to manage client feedback, sent through a Cordova plugin. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js, Cordova. 
+- Task Tracker, a service in the [Telerik Platform](https://www.telerik.com/blogs/telerik-platform-101) that provided simplified project management functionality and integration API with third party project management software. It was written in JavaScript and HTML5, using Node.js with Express, Angular.js. 
 
 ### Team Lead in Telerik Foundation Services (2 years)
 Together with a couple of other senior developers in Telerik I started the R&D, grew a team and completed some of the critical parts in the upcoming (at that time) [Telerik Platform](https://www.telerik.com/blogs/telerik-platform-101): Billing Services, Continuous Deployment and Security/Authentication Services, all written in C#, using ServiceStack, Unity, Couchbase and RabbitMQ. I was leading the one of two sub-teams that was responsible for the Billing Services and the Continuous Deployment. In addition to our main products, we designed and provided interfaces and reusable components for other teams in Telerik: Distributed Logging, Messaging, Authentication modules for .NET and Node.js. 
